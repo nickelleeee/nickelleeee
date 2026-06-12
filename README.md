@@ -1,6 +1,8 @@
 ### Hello, I'm Nick! 👋
 ---
-### About me
+
+My name is Nicholas Lee, I am an Ontario Tech University graduate that graduated with distinction from the Computer Science program. During my education and work experiences I have developed exceptional organizational and technical skills, with plenty of experience in software development, documentation, organizing systems and working in inter-disciplinary teams to provide services.
+
 ---
 ### Technologies!
 
